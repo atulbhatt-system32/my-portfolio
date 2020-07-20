@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.portfolio-header{
+    background-color: #000000;
+    height: 100vh;
+    color: rgb(243, 175, 86);
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+
+.profile-pic img{
+    border-radius: 50%;
+    box-shadow: grey -5px -5px 5px;
+}
+
+.header-text{
+    margin: 20px;
+}
